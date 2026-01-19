@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ismael, el gato que sobrevivió</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Georgia', serif;
+      background: linear-gradient(135deg, #111, #333);
+      color: #f5f5f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 700px;
+      background: rgba(0, 0, 0, 0.6);
+      padding: 40px;
+      border-radius: 16px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.2rem;
+      line-height: 1.8;
+    }
+    .signature {
+      margin-top: 30px;
+      font-style: italic;
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Ismael, el gato que sobrevivió</h1>
+    <p>
+      Soy un gato negro y vivo en Huelga contigo, mi padre. Mi padre se llama Rodrigo y a él le dediqué la canción
+      <em>“Mi padre de antes me quería”</em>, porque en ese momento estábamos pasando por una etapa de melancolía.
+    </p>
+    <p>
+      Tú eres un gato muy especial y esta página es de tu Rodrigo.
+    </p>
+    <div class="signature">— Rodrigo</div>
+  </div>
+</body>
+</html>
